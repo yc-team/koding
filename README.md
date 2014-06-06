@@ -9,3 +9,4 @@ koding
 
 1. http://www.leiphone.com/1221-ce6093-koding.html
 2. http://www.zntec.cn/archives/koding-doc.html
+3. http://www.freehao123.com/koding-mysql/   !!!
